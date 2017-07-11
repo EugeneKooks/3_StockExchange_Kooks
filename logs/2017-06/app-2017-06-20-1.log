@@ -1,0 +1,382 @@
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:52 - Brokers after trading in assets' ascending order: 
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 30 has 58 stocks of Facebook, (Broker 30)12239,56 of money, total assets: 19979,99
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 29 has 56 stocks of Henkel, (Broker 29)13343,45 of money, total assets: 20001,18
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 1 has 2 stocks of BMW, (Broker 1)19846,00 of money, total assets: 20014,92
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 12 has 33 stocks of Facebook, (Broker 12)41 stocks of Henkel, (Broker 12)10736,92 of money, total assets: 20015,37
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 37 has 1 stocks of Epam, (Broker 37)3 stocks of Facebook, (Broker 37)77 stocks of Henkel, (Broker 37)10399,79 of money, total assets: 20025,92
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 33 has 58 stocks of Facebook, (Broker 33)12294,98 of money, total assets: 20035,40
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 26 has 7 stocks of McDonalds, (Broker 26)19213,23 of money, total assets: 20038,07
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 14 has 57 stocks of Apple, (Broker 14)13171,06 of money, total assets: 20043,68
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 16 has 48 stocks of Henkel, (Broker 16)14349,18 of money, total assets: 20055,80
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 31 has 20 stocks of Epam, (Broker 31)18642,47 of money, total assets: 20070,26
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 27 has 42 stocks of McDonalds, (Broker 27)89 stocks of Apple, (Broker 27)11 stocks of Epam, (Broker 27)3623,40 of money, total assets: 20088,67
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 18 has 21 stocks of Epam, (Broker 18)18592,44 of money, total assets: 20091,61
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 8 has 92 stocks of Facebook, (Broker 8)7820,97 of money, total assets: 20098,88
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 21 has 54 stocks of Facebook, (Broker 21)1 stocks of Henkel, (Broker 21)12780,00 of money, total assets: 20105,49
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 11 has 54 stocks of Apple, (Broker 11)2 stocks of BMW, (Broker 11)13428,84 of money, total assets: 20108,66
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 39 has 5 stocks of McDonalds, (Broker 39)95 stocks of BMW, (Broker 39)11506,42 of money, total assets: 20119,11
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 15 has 23 stocks of Facebook, (Broker 15)17051,87 of money, total assets: 20121,35
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 6 has 27 stocks of McDonalds, (Broker 6)3 stocks of Epam, (Broker 6)16731,65 of money, total assets: 20127,35
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 38 has 3 stocks of Apple, (Broker 38)26 stocks of BMW, (Broker 38)66 stocks of Facebook, (Broker 38)8764,74 of money, total assets: 20130,44
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 25 has 92 stocks of McDonalds, (Broker 25)21 stocks of Epam, (Broker 25)7791,39 of money, total assets: 20131,33
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 7 has 53 stocks of Apple, (Broker 7)11 stocks of Epam, (Broker 7)4 stocks of Facebook, (Broker 7)12448,58 of money, total assets: 20158,02
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 19 has 56 stocks of Henkel, (Broker 19)13504,00 of money, total assets: 20161,73
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 35 has 92 stocks of McDonalds, (Broker 35)9354,61 of money, total assets: 20195,38
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 2 has 90 stocks of BMW, (Broker 2)12597,65 of money, total assets: 20198,87
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 23 has 141 stocks of Epam, (Broker 23)10141,64 of money, total assets: 20207,52
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 3 has 111 stocks of Apple, (Broker 3)6826,48 of money, total assets: 20210,01
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 13 has 23 stocks of Facebook, (Broker 13)56 stocks of Henkel, (Broker 13)10506,04 of money, total assets: 20233,25
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 20 has 76 stocks of Facebook, (Broker 20)10093,94 of money, total assets: 20236,57
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 10 has 3 stocks of Facebook, (Broker 10)19836,42 of money, total assets: 20236,79
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 34 has 29 stocks of Facebook, (Broker 34)3 stocks of Henkel, (Broker 34)16031,07 of money, total assets: 20257,95
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 22 has 58 stocks of Facebook, (Broker 22)12616,00 of money, total assets: 20356,43
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 5 has 54 stocks of Apple, (Broker 5)71 stocks of Epam, (Broker 5)33 stocks of BMW, (Broker 5)6059,02 of money, total assets: 20425,68
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 40 has 69 stocks of BMW, (Broker 40)14614,46 of money, total assets: 20442,07
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 28 has 4 stocks of McDonalds, (Broker 28)78 stocks of Epam, (Broker 28)14439,26 of money, total assets: 20478,96
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 24 has 4 stocks of Facebook, (Broker 24)19952,10 of money, total assets: 20485,92
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 9 has 96 stocks of McDonalds, (Broker 9)2 stocks of Apple, (Broker 9)8971,25 of money, total assets: 20524,50
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 32 has 126 stocks of Facebook, (Broker 32)3773,96 of money, total assets: 20589,36
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 36 has 77 stocks of McDonalds, (Broker 36)83 stocks of BMW, (Broker 36)4605,53 of money, total assets: 20688,80
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 4 has 120 stocks of BMW, (Broker 4)10632,47 of money, total assets: 20767,44
+2017-06-20 13:28:48 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 17 has 55 stocks of Epam, (Broker 17)77 stocks of BMW, (Broker 17)10492,00 of money, total assets: 20921,68
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:52 - Brokers after trading in assets' ascending order: 
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 12 has 0 shares20000,00 of money, total assets: 20000,00
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 36 has 23 shares of volkswagen, (Broker 36)12149,04 of money, total assets: 20005,39
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 17 has 57 shares of volkswagen, (Broker 17)539,44 of money, total assets: 20009,52
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 24 has 33 shares of volkswagen, (Broker 24)8743,52 of money, total assets: 20015,66
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 38 has 45 shares of Rusal, (Broker 38)14679,79 of money, total assets: 20017,92
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 29 has 49 shares of volkswagen, (Broker 29)9 shares of Facebook, (Broker 29)1949,23 of money, total assets: 20026,84
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 30 has 29 shares of Rusal, (Broker 30)16589,19 of money, total assets: 20029,32
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 26 has 38 shares of Rusal, (Broker 26)21 shares of Apple, (Broker 26)12914,28 of money, total assets: 20030,26
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 3 has 2 shares of Amazon, (Broker 3)19879,15 of money, total assets: 20042,55
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 13 has 29 shares of Facebook, (Broker 13)15735,51 of money, total assets: 20053,86
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 16 has 14 shares of Rusal, (Broker 16)1 shares of Facebook, (Broker 16)18251,00 of money, total assets: 20060,66
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 9 has 8 shares of Amazon, (Broker 9)19416,92 of money, total assets: 20070,52
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 25 has 5 shares of Gazprom, (Broker 25)5 shares of Amazon, (Broker 25)6 shares of Facebook, (Broker 25)18357,68 of money, total assets: 20074,45
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 22 has 51 shares of Rusal, (Broker 22)14027,85 of money, total assets: 20077,73
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 18 has 26 shares of volkswagen, (Broker 18)55 shares of Facebook, (Broker 18)3017,95 of money, total assets: 20089,01
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 40 has 37 shares of Apple, (Broker 40)36 shares of Amazon, (Broker 40)12556,89 of money, total assets: 20093,58
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 14 has 4 shares of Rusal, (Broker 14)3 shares of Apple, (Broker 14)25 shares of Gazprom, (Broker 14)17183,35 of money, total assets: 20104,51
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 39 has 52 shares of Gazprom, (Broker 39)58 shares of Amazon, (Broker 39)13 shares of Facebook, (Broker 39)9127,04 of money, total assets: 20115,56
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 10 has 76 shares of Amazon, (Broker 10)13917,30 of money, total assets: 20126,60
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 35 has 85 shares of Gazprom, (Broker 35)13091,21 of money, total assets: 20143,00
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 34 has 35 shares of Gazprom, (Broker 34)95 shares of Facebook, (Broker 34)3096,48 of money, total assets: 20146,48
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 23 has 17 shares of Rusal, (Broker 23)34 shares of Gazprom, (Broker 23)10 shares of volkswagen, (Broker 23)11912,08 of money, total assets: 20165,23
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 33 has 72 shares of Rusal, (Broker 33)20 shares of Facebook, (Broker 33)8657,89 of money, total assets: 20177,07
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 21 has 48 shares of Apple, (Broker 21)14229,69 of money, total assets: 20191,34
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 28 has 71 shares of Apple, (Broker 28)3 shares of Gazprom, (Broker 28)11197,74 of money, total assets: 20264,91
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 31 has 74 shares of Apple, (Broker 31)57 shares of Amazon, (Broker 31)6422,75 of money, total assets: 20270,61
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 37 has 98 shares of Rusal, (Broker 37)8654,01 of money, total assets: 20279,28
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 2 has 49 shares of Gazprom, (Broker 2)16219,60 of money, total assets: 20284,75
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 1 has 68 shares of Gazprom, (Broker 1)14688,40 of money, total assets: 20329,84
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 32 has 88 shares of Rusal, (Broker 32)49 shares of Apple, (Broker 32)3835,66 of money, total assets: 20360,53
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 6 has 21 shares of Rusal, (Broker 6)13 shares of Apple, (Broker 6)37 shares of Gazprom, (Broker 6)13186,50 of money, total assets: 20361,85
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 27 has 69 shares of Amazon, (Broker 27)14755,77 of money, total assets: 20393,15
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 5 has 53 shares of Amazon, (Broker 5)2 shares of Facebook, (Broker 5)15799,88 of money, total assets: 20427,86
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 20 has 86 shares of Apple, (Broker 20)69 shares of Amazon, (Broker 20)4136,83 of money, total assets: 20455,52
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 15 has 30 shares of Rusal, (Broker 15)57 shares of Apple, (Broker 15)23 shares of Gazprom, (Broker 15)7909,53 of money, total assets: 20455,88
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 4 has 42 shares of Amazon, (Broker 4)52 shares of Facebook, (Broker 4)9290,00 of money, total assets: 20464,70
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 7 has 58 shares of Gazprom, (Broker 7)35 shares of Amazon, (Broker 7)12823,95 of money, total assets: 20495,31
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 11 has 77 shares of Amazon, (Broker 11)14232,20 of money, total assets: 20523,19
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 8 has 29 shares of Rusal, (Broker 8)72 shares of Apple, (Broker 8)8167,70 of money, total assets: 20550,32
+2017-06-20 14:24:06 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 19 has 100 shares of Apple, (Broker 19)82 shares of Amazon, (Broker 19)1549,82 of money, total assets: 20669,43
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:52 - Brokers after trading in assets' ascending order: 
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 10 has 0 shares20000,00 of money, total assets: 20000,00
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 25 has 4 shares of volkswagen, (Broker 25)18636,17 of money, total assets: 20000,43
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 38 has 7 shares of Facebook, (Broker 38)18953,29 of money, total assets: 20000,45
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 37 has 10 shares of Amazon, (Broker 37)19221,73 of money, total assets: 20008,15
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 14 has 4 shares of Gazprom, (Broker 14)19673,89 of money, total assets: 20012,66
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 33 has 8 shares of Apple, (Broker 33)2 shares of volkswagen, (Broker 33)18346,83 of money, total assets: 20013,60
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 35 has 7 shares of Rusal, (Broker 35)19188,38 of money, total assets: 20013,94
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 34 has 46 shares of Rusal, (Broker 34)14589,62 of money, total assets: 20014,72
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 30 has 35 shares of Gazprom, (Broker 30)1 shares of volkswagen, (Broker 30)16709,48 of money, total assets: 20014,79
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 18 has 45 shares of Apple, (Broker 18)14477,89 of money, total assets: 20016,50
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 40 has 42 shares of Apple, (Broker 40)14860,45 of money, total assets: 20029,82
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 16 has 22 shares of Facebook, (Broker 16)16741,05 of money, total assets: 20032,11
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 26 has 17 shares of Gazprom, (Broker 26)57 shares of Facebook, (Broker 26)10068,32 of money, total assets: 20034,95
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 28 has 7 shares of Rusal, (Broker 28)2 shares of Gazprom, (Broker 28)19045,49 of money, total assets: 20040,43
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 3 has 5 shares of Gazprom, (Broker 3)19 shares of Facebook, (Broker 3)16781,86 of money, total assets: 20047,61
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 23 has 1 shares of Apple, (Broker 23)20 shares of Amazon, (Broker 23)18363,33 of money, total assets: 20059,24
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 20 has 53 shares of Facebook, (Broker 20)12141,02 of money, total assets: 20069,49
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 24 has 78 shares of Facebook, (Broker 24)8406,07 of money, total assets: 20074,39
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 22 has 9 shares of Gazprom, (Broker 22)19321,33 of money, total assets: 20083,56
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 19 has 35 shares of Rusal, (Broker 19)15966,13 of money, total assets: 20093,92
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 21 has 39 shares of Rusal, (Broker 21)15518,67 of money, total assets: 20118,21
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 2 has 13 shares of Rusal, (Broker 2)16 shares of Gazprom, (Broker 2)2 shares of Facebook, (Broker 2)16932,39 of money, total assets: 20119,85
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 36 has 79 shares of Rusal, (Broker 36)22 shares of Amazon, (Broker 36)9078,88 of money, total assets: 20126,02
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 39 has 48 shares of Gazprom, (Broker 39)16069,05 of money, total assets: 20134,31
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 32 has 71 shares of Gazprom, (Broker 32)30 shares of Amazon, (Broker 32)11762,32 of money, total assets: 20134,77
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 31 has 45 shares of Gazprom, (Broker 31)23 shares of Amazon, (Broker 31)14545,31 of money, total assets: 20165,25
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 15 has 48 shares of Apple, (Broker 15)63 shares of Facebook, (Broker 15)4850,50 of money, total assets: 20182,76
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 27 has 13 shares of Apple, (Broker 27)6 shares of Amazon, (Broker 27)60 shares of Facebook, (Broker 27)9165,15 of money, total assets: 20212,67
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 13 has 93 shares of Rusal, (Broker 13)11 shares of Apple, (Broker 13)7899,06 of money, total assets: 20221,08
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 4 has 47 shares of Rusal, (Broker 4)13 shares of Facebook, (Broker 4)12750,18 of money, total assets: 20237,94
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 17 has 72 shares of Amazon, (Broker 17)14613,74 of money, total assets: 20275,96
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 5 has 57 shares of Apple, (Broker 5)10 shares of Facebook, (Broker 5)11771,06 of money, total assets: 20282,57
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 1 has 49 shares of Amazon, (Broker 1)16433,03 of money, total assets: 20286,48
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 11 has 28 shares of Rusal, (Broker 11)56 shares of Gazprom, (Broker 11)15 shares of volkswagen, (Broker 11)7136,53 of money, total assets: 20297,53
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 9 has 5 shares of Rusal, (Broker 9)105 shares of Apple, (Broker 9)6797,40 of money, total assets: 20310,50
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 12 has 70 shares of Apple, (Broker 12)56 shares of Gazprom, (Broker 12)7042,67 of money, total assets: 20401,08
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 29 has 24 shares of Gazprom, (Broker 29)109 shares of Amazon, (Broker 29)9796,75 of money, total assets: 20401,34
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 8 has 92 shares of Apple, (Broker 8)36 shares of Gazprom, (Broker 8)32 shares of Amazon, (Broker 8)3766,23 of money, total assets: 20655,09
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 7 has 94 shares of Gazprom, (Broker 7)52 shares of Amazon, (Broker 7)8793,42 of money, total assets: 20843,93
+2017-06-20 14:24:24 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 6 has 56 shares of Rusal, (Broker 6)99 shares of Gazprom, (Broker 6)5969,91 of money, total assets: 20958,98
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:52 - Brokers after trading in assets' ascending order: 
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 38 has 0 shares20000,00 of money, total assets: 20000,00
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 16 has 1 shares of volkswagen, (Broker 16)19658,85 of money, total assets: 20000,15
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 30 has 4 shares of volkswagen, (Broker 30)18635,48 of money, total assets: 20000,67
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 9 has 8 shares of volkswagen, (Broker 9)17271,39 of money, total assets: 20001,76
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 1 has 39 shares of volkswagen, (Broker 1)6701,00 of money, total assets: 20011,55
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 24 has 4 shares of Amazon, (Broker 24)19692,97 of money, total assets: 20014,52
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 33 has 6 shares of Gazprom, (Broker 33)19535,08 of money, total assets: 20016,44
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 15 has 10 shares of Facebook, (Broker 15)18527,96 of money, total assets: 20027,60
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 39 has 63 shares of Gazprom, (Broker 39)14995,66 of money, total assets: 20049,97
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 14 has 87 shares of Apple, (Broker 14)26 shares of volkswagen, (Broker 14)472,86 of money, total assets: 20050,22
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 2 has 18 shares of Rusal, (Broker 2)23 shares of Gazprom, (Broker 2)21 shares of volkswagen, (Broker 2)8907,14 of money, total assets: 20052,95
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 35 has 57 shares of Amazon, (Broker 35)54 shares of Facebook, (Broker 35)7380,19 of money, total assets: 20060,27
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 36 has 21 shares of Amazon, (Broker 36)18384,74 of money, total assets: 20072,86
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 12 has 29 shares of Facebook, (Broker 12)15746,72 of money, total assets: 20095,66
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 29 has 37 shares of Apple, (Broker 29)15548,47 of money, total assets: 20100,61
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 26 has 8 shares of Apple, (Broker 26)36 shares of Facebook, (Broker 26)13721,55 of money, total assets: 20104,49
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 6 has 39 shares of Amazon, (Broker 6)16972,17 of money, total assets: 20107,25
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 27 has 40 shares of Rusal, (Broker 27)15368,34 of money, total assets: 20109,16
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 34 has 7 shares of Amazon, (Broker 34)19547,45 of money, total assets: 20110,16
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 3 has 34 shares of Gazprom, (Broker 3)17392,39 of money, total assets: 20120,11
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 37 has 129 shares of Rusal, (Broker 37)30 shares of Facebook, (Broker 37)343,83 of money, total assets: 20131,89
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 31 has 60 shares of Rusal, (Broker 31)13023,08 of money, total assets: 20134,32
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 10 has 43 shares of Gazprom, (Broker 10)16701,40 of money, total assets: 20151,16
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 21 has 49 shares of Apple, (Broker 21)14124,76 of money, total assets: 20153,26
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 18 has 12 shares of Apple, (Broker 18)48 shares of Amazon, (Broker 18)14825,09 of money, total assets: 20160,02
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 5 has 27 shares of Rusal, (Broker 5)16965,25 of money, total assets: 20165,30
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 32 has 63 shares of Apple, (Broker 32)3 shares of Amazon, (Broker 32)2 shares of Facebook, (Broker 32)11886,19 of money, total assets: 20178,21
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 8 has 2 shares of volkswagen, (Broker 8)100 shares of Facebook, (Broker 8)4503,56 of money, total assets: 20182,52
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 4 has 51 shares of Gazprom, (Broker 4)87 shares of Facebook, (Broker 4)3049,72 of money, total assets: 20188,14
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 13 has 27 shares of Rusal, (Broker 13)23 shares of Apple, (Broker 13)14161,35 of money, total assets: 20191,11
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 20 has 21 shares of Apple, (Broker 20)64 shares of Amazon, (Broker 20)4 shares of Facebook, (Broker 20)11870,82 of money, total assets: 20199,07
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 23 has 62 shares of Rusal, (Broker 23)12854,28 of money, total assets: 20202,56
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 28 has 79 shares of Apple, (Broker 28)24 shares of Amazon, (Broker 28)2 shares of Facebook, (Broker 28)8283,81 of money, total assets: 20232,43
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 17 has 21 shares of Rusal, (Broker 17)26 shares of Amazon, (Broker 17)15668,76 of money, total assets: 20247,75
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 22 has 72 shares of Rusal, (Broker 22)23 shares of Apple, (Broker 22)26 shares of Gazprom, (Broker 22)6806,58 of money, total assets: 20255,67
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 19 has 79 shares of Apple, (Broker 19)6 shares of Gazprom, (Broker 19)10115,45 of money, total assets: 20316,22
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 40 has 56 shares of Amazon, (Broker 40)55 shares of Facebook, (Broker 40)7632,22 of money, total assets: 20381,88
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 11 has 68 shares of Rusal, (Broker 11)30 shares of Facebook, (Broker 11)7828,31 of money, total assets: 20386,62
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 7 has 5 shares of Apple, (Broker 7)47 shares of Amazon, (Broker 7)16048,00 of money, total assets: 20441,33
+2017-06-20 14:27:25 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 25 has 165 shares of Amazon, (Broker 25)7702,17 of money, total assets: 20965,98
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:52 - Brokers after trading in assets' ascending order: 
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 22 has 35 shares of Gazprom, (Broker 22)17057,90 of money, total assets: 19968,31
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 3 has 0 shares20000,00 of money, total assets: 20000,00
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 40 has 43 shares of volkswagen, (Broker 40)5303,62 of money, total assets: 20005,41
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 37 has 17 shares of volkswagen, (Broker 37)14195,77 of money, total assets: 20008,11
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 36 has 43 shares of volkswagen, (Broker 36)5309,03 of money, total assets: 20010,82
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 20 has 41 shares of Facebook, (Broker 20)13861,90 of money, total assets: 20012,80
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 6 has 2 shares of Apple, (Broker 6)16 shares of volkswagen, (Broker 6)14300,21 of money, total assets: 20018,79
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 13 has 55 shares of volkswagen, (Broker 13)1218,08 of money, total assets: 20022,70
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 12 has 46 shares of volkswagen, (Broker 12)4301,46 of money, total assets: 20028,96
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 18 has 55 shares of Rusal, (Broker 18)25 shares of Apple, (Broker 18)10574,37 of money, total assets: 20031,33
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 23 has 40 shares of volkswagen, (Broker 23)6355,66 of money, total assets: 20031,75
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 28 has 55 shares of Rusal, (Broker 28)8 shares of Amazon, (Broker 28)13033,22 of money, total assets: 20053,46
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 39 has 30 shares of Apple, (Broker 39)16344,75 of money, total assets: 20066,98
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 24 has 51 shares of Apple, (Broker 24)56 shares of Amazon, (Broker 24)9091,09 of money, total assets: 20074,83
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 16 has 11 shares of volkswagen, (Broker 16)54 shares of Facebook, (Broker 16)8235,38 of money, total assets: 20097,50
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 1 has 12 shares of Apple, (Broker 1)18625,48 of money, total assets: 20114,37
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 38 has 93 shares of Apple, (Broker 38)8588,75 of money, total assets: 20127,67
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 2 has 13 shares of Gazprom, (Broker 2)19050,62 of money, total assets: 20131,63
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 34 has 108 shares of Gazprom, (Broker 34)11168,27 of money, total assets: 20148,96
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 35 has 41 shares of Apple, (Broker 35)52 shares of Facebook, (Broker 35)7262,37 of money, total assets: 20150,58
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 11 has 1 shares of Rusal, (Broker 11)43 shares of Amazon, (Broker 11)16502,82 of money, total assets: 20193,46
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 9 has 75 shares of Gazprom, (Broker 9)13988,55 of money, total assets: 20225,14
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 5 has 3 shares of Apple, (Broker 5)29 shares of Gazprom, (Broker 5)17449,49 of money, total assets: 20233,19
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 10 has 83 shares of Apple, (Broker 10)9940,17 of money, total assets: 20238,35
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 33 has 7 shares of Rusal, (Broker 33)34 shares of Apple, (Broker 33)48 shares of Gazprom, (Broker 33)11221,79 of money, total assets: 20240,57
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 26 has 23 shares of Gazprom, (Broker 26)102 shares of Amazon, (Broker 26)9851,08 of money, total assets: 20244,09
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 32 has 66 shares of Amazon, (Broker 32)5 shares of Facebook, (Broker 32)14043,53 of money, total assets: 20280,99
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 21 has 108 shares of Facebook, (Broker 21)4104,22 of money, total assets: 20306,62
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 15 has 55 shares of Amazon, (Broker 15)35 shares of Facebook, (Broker 15)10490,11 of money, total assets: 20313,68
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 25 has 29 shares of Rusal, (Broker 25)30 shares of Amazon, (Broker 25)14482,30 of money, total assets: 20327,42
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 29 has 30 shares of Rusal, (Broker 29)61 shares of Gazprom, (Broker 29)11809,36 of money, total assets: 20348,21
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 19 has 42 shares of Amazon, (Broker 19)16879,92 of money, total assets: 20371,87
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 30 has 1 shares of Gazprom, (Broker 30)62 shares of Amazon, (Broker 30)50 shares of Facebook, (Broker 30)7680,77 of money, total assets: 20419,82
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 31 has 61 shares of Amazon, (Broker 31)15 shares of Facebook, (Broker 31)13110,70 of money, total assets: 20432,68
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 27 has 46 shares of Apple, (Broker 27)31 shares of Gazprom, (Broker 27)43 shares of Facebook, (Broker 27)5719,73 of money, total assets: 20455,90
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 8 has 125 shares of Apple, (Broker 8)19 shares of Facebook, (Broker 8)2142,22 of money, total assets: 20501,94
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 17 has 84 shares of Amazon, (Broker 17)13524,41 of money, total assets: 20508,32
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 4 has 70 shares of Apple, (Broker 4)63 shares of Gazprom, (Broker 4)6774,60 of money, total assets: 20698,55
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 14 has 84 shares of Amazon, (Broker 14)26 shares of Facebook, (Broker 14)9826,34 of money, total assets: 20710,82
+2017-06-20 14:35:50 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 7 has 94 shares of Amazon, (Broker 7)37 shares of volkswagen, (Broker 7)521,00 of money, total assets: 20986,71
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:52 - Brokers after trading in assets' ascending order: 
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 19 has 6 shares of volkswagen, (Broker 19)17951,54 of money, total assets: 20000,86
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 15 has 13 shares of volkswagen, (Broker 15)15563,95 of money, total assets: 20004,15
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 17 has 21 shares of volkswagen, (Broker 17)12836,89 of money, total assets: 20009,53
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 39 has 23 shares of volkswagen, (Broker 39)12156,80 of money, total assets: 20012,54
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 11 has 41 shares of volkswagen, (Broker 11)6011,19 of money, total assets: 20014,90
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 33 has 10 shares of Gazprom, (Broker 33)13 shares of Amazon, (Broker 33)18129,07 of money, total assets: 20026,88
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 6 has 56 shares of Rusal, (Broker 6)5 shares of volkswagen, (Broker 6)11711,31 of money, total assets: 20029,99
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 7 has 14 shares of Facebook, (Broker 7)17933,80 of money, total assets: 20031,33
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 35 has 7 shares of Facebook, (Broker 35)18989,67 of money, total assets: 20038,43
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 2 has 40 shares of Apple, (Broker 2)37 shares of volkswagen, (Broker 2)2533,08 of money, total assets: 20040,69
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 9 has 4 shares of Gazprom, (Broker 9)39 shares of volkswagen, (Broker 9)6388,10 of money, total assets: 20047,85
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 10 has 27 shares of Gazprom, (Broker 10)17762,69 of money, total assets: 20051,93
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 16 has 93 shares of Facebook, (Broker 16)6129,97 of money, total assets: 20063,58
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 30 has 44 shares of Rusal, (Broker 30)14880,29 of money, total assets: 20074,57
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 13 has 15 shares of Facebook, (Broker 13)17842,35 of money, total assets: 20089,70
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 37 has 12 shares of Rusal, (Broker 37)15 shares of Apple, (Broker 37)16862,12 of money, total assets: 20105,03
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 29 has 62 shares of Apple, (Broker 29)12561,14 of money, total assets: 20109,81
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 36 has 1 shares of Gazprom, (Broker 36)46 shares of Amazon, (Broker 36)2 shares of Facebook, (Broker 36)16026,73 of money, total assets: 20126,34
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 1 has 32 shares of Rusal, (Broker 1)3 shares of volkswagen, (Broker 1)15329,00 of money, total assets: 20131,32
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 20 has 95 shares of Rusal, (Broker 20)9 shares of Apple, (Broker 20)7832,44 of money, total assets: 20143,16
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 34 has 19 shares of Amazon, (Broker 34)33 shares of Facebook, (Broker 34)13689,32 of money, total assets: 20168,03
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 27 has 77 shares of Apple, (Broker 27)10796,51 of money, total assets: 20171,47
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 12 has 1 shares of Gazprom, (Broker 12)41 shares of Amazon, (Broker 12)7 shares of Facebook, (Broker 12)15733,04 of money, total assets: 20177,95
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 40 has 3 shares of Rusal, (Broker 40)96 shares of Amazon, (Broker 40)12079,99 of money, total assets: 20187,56
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 8 has 71 shares of Apple, (Broker 8)116 shares of Gazprom, (Broker 8)1717,74 of money, total assets: 20197,44
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 4 has 71 shares of Amazon, (Broker 4)14469,80 of money, total assets: 20204,09
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 3 has 79 shares of Facebook, (Broker 3)8383,17 of money, total assets: 20219,25
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 32 has 71 shares of Rusal, (Broker 32)11 shares of Gazprom, (Broker 32)10909,70 of money, total assets: 20224,05
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 38 has 24 shares of Rusal, (Broker 38)31 shares of Gazprom, (Broker 38)14773,42 of money, total assets: 20235,05
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 24 has 65 shares of Gazprom, (Broker 24)14724,72 of money, total assets: 20235,85
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 25 has 38 shares of Rusal, (Broker 25)56 shares of Apple, (Broker 25)8983,55 of money, total assets: 20287,68
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 22 has 52 shares of Amazon, (Broker 22)16090,50 of money, total assets: 20290,27
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 23 has 51 shares of Rusal, (Broker 23)1 shares of volkswagen, (Broker 23)64 shares of Facebook, (Broker 23)4347,50 of money, total assets: 20298,43
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 26 has 71 shares of Gazprom, (Broker 26)39 shares of Facebook, (Broker 26)8479,31 of money, total assets: 20342,29
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 14 has 62 shares of Gazprom, (Broker 14)31 shares of Amazon, (Broker 14)12599,52 of money, total assets: 20359,99
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 31 has 56 shares of Gazprom, (Broker 31)1 shares of Amazon, (Broker 31)16 shares of Facebook, (Broker 31)13178,15 of money, total assets: 20404,14
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 18 has 86 shares of Amazon, (Broker 18)13480,88 of money, total assets: 20426,65
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 28 has 60 shares of Gazprom, (Broker 28)25 shares of Amazon, (Broker 28)49 shares of Facebook, (Broker 28)6067,74 of money, total assets: 20515,42
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 21 has 59 shares of Gazprom, (Broker 21)66 shares of Amazon, (Broker 21)10550,38 of money, total assets: 20883,26
+2017-06-20 14:38:07 [main] INFO  by.kooks.stockExchange.runner.StockRunner  line:53 - Broker 5 has 43 shares of Rusal, (Broker 5)52 shares of Gazprom, (Broker 5)44 shares of Amazon, (Broker 5)7924,69 of money, total assets: 20963,48
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:52 - Brokers after trading in assets' ascending order: 
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 20 has 0 shares20000,00 of money, total assets: 20000,00
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 32 has 0 shares20000,00 of money, total assets: 20000,00
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 16 has 1 shares of Apple, (Broker 16)19877,58 of money, total assets: 20001,29
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 37 has 19 shares of volkswagen, (Broker 37)1 shares of Facebook, (Broker 37)13370,49 of money, total assets: 20004,49
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 2 has 3 shares of Facebook, (Broker 2)19560,22 of money, total assets: 20010,04
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 4 has 20 shares of volkswagen, (Broker 4)14 shares of Facebook, (Broker 4)11086,53 of money, total assets: 20010,98
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 25 has 4 shares of Apple, (Broker 25)19517,81 of money, total assets: 20012,67
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 12 has 15 shares of Rusal, (Broker 12)18244,47 of money, total assets: 20012,73
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 33 has 46 shares of Apple, (Broker 33)14327,01 of money, total assets: 20017,94
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 24 has 5 shares of Apple, (Broker 24)14 shares of Facebook, (Broker 24)17300,46 of money, total assets: 20018,16
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 31 has 2 shares of Gazprom, (Broker 31)25 shares of volkswagen, (Broker 31)14 shares of Facebook, (Broker 31)9228,89 of money, total assets: 20023,22
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 15 has 15 shares of Facebook, (Broker 15)17780,01 of money, total assets: 20029,07
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 35 has 73 shares of Facebook, (Broker 35)9083,83 of money, total assets: 20029,26
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 19 has 14 shares of Facebook, (Broker 19)17943,14 of money, total assets: 20042,26
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 11 has 22 shares of volkswagen, (Broker 11)25 shares of Facebook, (Broker 11)8807,69 of money, total assets: 20063,99
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 38 has 40 shares of Facebook, (Broker 38)14085,57 of money, total assets: 20083,07
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 29 has 36 shares of Apple, (Broker 29)2 shares of Gazprom, (Broker 29)15504,66 of money, total assets: 20121,97
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 14 has 73 shares of Apple, (Broker 14)16 shares of Gazprom, (Broker 14)9786,28 of money, total assets: 20125,88
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 26 has 45 shares of Rusal, (Broker 26)14826,18 of money, total assets: 20130,93
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 28 has 73 shares of Amazon, (Broker 28)14305,09 of money, total assets: 20135,81
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 1 has 18 shares of Rusal, (Broker 1)19 shares of Facebook, (Broker 1)15178,89 of money, total assets: 20149,61
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 10 has 105 shares of Rusal, (Broker 10)4 shares of Apple, (Broker 10)7282,35 of money, total assets: 20154,98
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 39 has 76 shares of Rusal, (Broker 39)95 shares of Gazprom, (Broker 39)3437,30 of money, total assets: 20164,73
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 40 has 4 shares of Apple, (Broker 40)103 shares of Facebook, (Broker 40)4245,26 of money, total assets: 20183,67
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 30 has 42 shares of Gazprom, (Broker 30)1 shares of Amazon, (Broker 30)16678,21 of money, total assets: 20192,48
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 23 has 58 shares of Apple, (Broker 23)13036,23 of money, total assets: 20211,74
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 8 has 54 shares of Gazprom, (Broker 8)15809,19 of money, total assets: 20224,84
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 22 has 18 shares of Rusal, (Broker 22)50 shares of Gazprom, (Broker 22)1 shares of volkswagen, (Broker 22)13690,40 of money, total assets: 20242,14
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 9 has 35 shares of Amazon, (Broker 9)27 shares of Facebook, (Broker 9)13424,28 of money, total assets: 20268,13
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 7 has 12 shares of Amazon, (Broker 7)73 shares of Facebook, (Broker 7)8381,12 of money, total assets: 20285,02
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 18 has 59 shares of Rusal, (Broker 18)87 shares of Apple, (Broker 18)2567,47 of money, total assets: 20285,87
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 36 has 84 shares of Rusal, (Broker 36)10403,75 of money, total assets: 20305,96
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 6 has 99 shares of Gazprom, (Broker 6)73 shares of Amazon, (Broker 6)6384,22 of money, total assets: 20310,30
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 5 has 49 shares of Amazon, (Broker 5)16415,88 of money, total assets: 20329,64
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 13 has 61 shares of Amazon, (Broker 13)15458,45 of money, total assets: 20330,69
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 17 has 81 shares of Apple, (Broker 17)2 shares of volkswagen, (Broker 17)9647,58 of money, total assets: 20351,09
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 27 has 29 shares of Rusal, (Broker 27)86 shares of Amazon, (Broker 27)10090,26 of money, total assets: 20377,94
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 34 has 126 shares of Apple, (Broker 34)28 shares of Amazon, (Broker 34)2560,04 of money, total assets: 20384,67
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 21 has 94 shares of Amazon, (Broker 21)2 shares of volkswagen, (Broker 21)12236,66 of money, total assets: 20427,24
+2017-06-20 14:43:49 [main] INFO  StockRunner  line:53 - Broker 3 has 46 shares of Apple, (Broker 3)15 shares of Gazprom, (Broker 3)10 shares of Amazon, (Broker 3)12757,65 of money, total assets: 20473,88
+2017-06-20 14:49:42 [main] ERROR by.kooks.stockExchange.parser.InputDataParser  line:29 - Wrong data quantity in the file.
+2017-06-20 14:49:42 [main] ERROR by.kooks.stockExchange.parser.InputDataParser  line:29 - Wrong data quantity in the file.
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:52 - Brokers after trading in assets' ascending order: 
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 10 has 0 shares20000,00 of money, total assets: 20000,00
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 29 has 42 shares of volkswagen, (Broker 29)1 shares of Facebook, (Broker 29)5521,96 of money, total assets: 20005,92
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 31 has 21 shares of Rusal, (Broker 31)15 shares of Gazprom, (Broker 31)16254,35 of money, total assets: 20006,42
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 2 has 1 shares of Amazon, (Broker 2)19927,58 of money, total assets: 20006,87
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 16 has 10 shares of Gazprom, (Broker 16)19185,92 of money, total assets: 20009,84
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 21 has 48 shares of volkswagen, (Broker 21)3632,78 of money, total assets: 20015,27
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 33 has 40 shares of Apple, (Broker 33)1 shares of Amazon, (Broker 33)35 shares of Facebook, (Broker 33)9830,87 of money, total assets: 20021,36
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 6 has 32 shares of Facebook, (Broker 6)15245,49 of money, total assets: 20022,39
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 1 has 9 shares of Apple, (Broker 1)18929,08 of money, total assets: 20028,54
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 14 has 41 shares of Gazprom, (Broker 14)16656,27 of money, total assets: 20034,34
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 25 has 10 shares of Rusal, (Broker 25)18840,09 of money, total assets: 20038,28
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 40 has 6 shares of Apple, (Broker 40)13 shares of volkswagen, (Broker 40)14872,07 of money, total assets: 20041,97
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 35 has 5 shares of Gazprom, (Broker 35)34 shares of Facebook, (Broker 35)14555,82 of money, total assets: 20043,23
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 24 has 43 shares of Facebook, (Broker 24)13626,20 of money, total assets: 20045,16
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 37 has 59 shares of Apple, (Broker 37)12852,00 of money, total assets: 20059,52
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 18 has 64 shares of Rusal, (Broker 18)12391,28 of money, total assets: 20059,67
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 4 has 74 shares of Amazon, (Broker 4)14196,61 of money, total assets: 20064,77
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 8 has 36 shares of Amazon, (Broker 8)17210,75 of money, total assets: 20065,53
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 13 has 13 shares of Apple, (Broker 13)3 shares of Facebook, (Broker 13)18039,26 of money, total assets: 20075,19
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 12 has 8 shares of Gazprom, (Broker 12)19435,80 of money, total assets: 20094,94
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 39 has 24 shares of Rusal, (Broker 39)50 shares of Apple, (Broker 39)11141,85 of money, total assets: 20125,57
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 11 has 57 shares of Facebook, (Broker 11)11621,00 of money, total assets: 20129,85
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 20 has 76 shares of Rusal, (Broker 20)11 shares of Facebook, (Broker 20)9390,34 of money, total assets: 20138,61
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 34 has 51 shares of Amazon, (Broker 34)16104,73 of money, total assets: 20149,00
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 36 has 32 shares of Gazprom, (Broker 36)42 shares of Facebook, (Broker 36)11250,56 of money, total assets: 20156,78
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 32 has 31 shares of Rusal, (Broker 32)16473,30 of money, total assets: 20187,67
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 30 has 70 shares of Rusal, (Broker 30)11819,20 of money, total assets: 20206,50
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 19 has 20 shares of Apple, (Broker 19)15 shares of Gazprom, (Broker 19)16535,67 of money, total assets: 20214,78
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 26 has 10 shares of Rusal, (Broker 26)67 shares of Amazon, (Broker 26)13711,27 of money, total assets: 20222,51
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 22 has 49 shares of Rusal, (Broker 22)82 shares of Gazprom, (Broker 22)7630,20 of money, total assets: 20257,45
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 28 has 46 shares of Apple, (Broker 28)59 shares of Gazprom, (Broker 28)9787,47 of money, total assets: 20268,02
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 3 has 44 shares of Rusal, (Broker 3)4 shares of Gazprom, (Broker 3)14691,13 of money, total assets: 20292,72
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 9 has 35 shares of Rusal, (Broker 9)3 shares of Gazprom, (Broker 9)15 shares of Amazon, (Broker 9)14687,22 of money, total assets: 20317,54
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 7 has 16 shares of Rusal, (Broker 7)77 shares of Apple, (Broker 7)8995,01 of money, total assets: 20318,55
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 5 has 9 shares of Apple, (Broker 5)7 shares of Gazprom, (Broker 5)37 shares of Amazon, (Broker 5)15714,77 of money, total assets: 20325,04
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 23 has 55 shares of Rusal, (Broker 23)78 shares of Facebook, (Broker 23)2134,61 of money, total assets: 20368,32
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 17 has 76 shares of Gazprom, (Broker 17)1 shares of Facebook, (Broker 17)13987,33 of money, total assets: 20398,39
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 38 has 74 shares of Rusal, (Broker 38)50 shares of Apple, (Broker 38)34 shares of Amazon, (Broker 38)2810,73 of money, total assets: 20481,56
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 27 has 68 shares of Gazprom, (Broker 27)94 shares of Amazon, (Broker 27)7654,91 of money, total assets: 20711,70
+2017-06-20 14:49:43 [main] INFO  StockRunner  line:53 - Broker 15 has 98 shares of Rusal, (Broker 15)67 shares of Amazon, (Broker 15)3806,66 of money, total assets: 20861,94
+2017-06-20 19:20:19 [main] ERROR by.kooks.stockExchange.parser.InputDataParser  line:29 - Wrong data quantity in the file.
+2017-06-20 19:20:19 [main] ERROR by.kooks.stockExchange.parser.InputDataParser  line:29 - Wrong data quantity in the file.
+2017-06-20 19:20:20 [main] INFO  StockRunner  line:52 - Brokers after trading in assets' ascending order: 
+2017-06-20 19:20:20 [main] INFO  StockRunner  line:53 - Broker 8 has 5 shares of Rusal, (Broker 8)10 shares of Apple, (Broker 8)18230,10 of money, total assets: 20001,78
+2017-06-20 19:20:20 [main] INFO  StockRunner  line:53 - Broker 7 has 16 shares of Apple, (Broker 7)18095,27 of money, total assets: 20003,80
+2017-06-20 19:20:20 [main] INFO  StockRunner  line:53 - Broker 9 has 8 shares of Gazprom, (Broker 9)19387,17 of money, total assets: 20021,08
+2017-06-20 19:20:20 [main] INFO  StockRunner  line:53 - Broker 10 has 56 shares of Gazprom, (Broker 10)15602,56 of money, total assets: 20039,94
+2017-06-20 19:20:20 [main] INFO  StockRunner  line:53 - Broker 5 has 2 shares of Apple, (Broker 5)48 shares of Amazon, (Broker 5)16243,88 of money, total assets: 20073,46
+2017-06-20 19:20:20 [main] INFO  StockRunner  line:53 - Broker 3 has 39 shares of Gazprom, (Broker 3)10 shares of Facebook, (Broker 3)15528,80 of money, total assets: 20090,68
+2017-06-20 19:20:20 [main] INFO  StockRunner  line:53 - Broker 6 has 13 shares of Rusal, (Broker 6)71 shares of Gazprom, (Broker 6)12986,62 of money, total assets: 20117,61
+2017-06-20 19:20:20 [main] INFO  StockRunner  line:53 - Broker 4 has 123 shares of Rusal, (Broker 4)1 shares of Amazon, (Broker 4)5803,62 of money, total assets: 20118,29
+2017-06-20 19:20:20 [main] INFO  StockRunner  line:53 - Broker 1 has 5 shares of Apple, (Broker 1)52 shares of Amazon, (Broker 1)15667,32 of money, total assets: 20154,00
+2017-06-20 19:20:20 [main] INFO  StockRunner  line:53 - Broker 2 has 62 shares of Rusal, (Broker 2)32 shares of Amazon, (Broker 2)13 shares of Facebook, (Broker 2)8675,53 of money, total assets: 20160,38
+2017-06-20 19:21:45 [main] ERROR by.kooks.stockExchange.parser.InputDataParser  line:29 - Wrong data quantity in the file.
+2017-06-20 19:21:45 [main] ERROR by.kooks.stockExchange.parser.InputDataParser  line:29 - Wrong data quantity in the file.
+2017-06-20 19:21:46 [main] INFO  StockRunner  line:52 - Brokers after trading in assets' ascending order: 
+2017-06-20 19:21:46 [main] INFO  StockRunner  line:53 - Broker 6 has 16 shares of Apple, (Broker 6)18093,98 of money, total assets: 20009,14
+2017-06-20 19:21:46 [main] INFO  StockRunner  line:53 - Broker 10 has 5 shares of Gazprom, (Broker 10)57 shares of volkswagen, (Broker 10)174,07 of money, total assets: 20009,85
+2017-06-20 19:21:46 [main] INFO  StockRunner  line:53 - Broker 9 has 62 shares of Rusal, (Broker 9)12888,49 of money, total assets: 20033,51
+2017-06-20 19:21:46 [main] INFO  StockRunner  line:53 - Broker 3 has 37 shares of Gazprom, (Broker 3)17161,13 of money, total assets: 20035,42
+2017-06-20 19:21:46 [main] INFO  StockRunner  line:53 - Broker 8 has 61 shares of Amazon, (Broker 8)15425,26 of money, total assets: 20049,62
+2017-06-20 19:21:46 [main] INFO  StockRunner  line:53 - Broker 7 has 43 shares of Amazon, (Broker 7)5 shares of volkswagen, (Broker 7)15129,42 of money, total assets: 20095,12
+2017-06-20 19:21:46 [main] INFO  StockRunner  line:53 - Broker 2 has 10 shares of Gazprom, (Broker 2)90 shares of Facebook, (Broker 2)6043,30 of money, total assets: 20105,24
+2017-06-20 19:21:46 [main] INFO  StockRunner  line:53 - Broker 5 has 80 shares of Rusal, (Broker 5)4 shares of Apple, (Broker 5)10410,57 of money, total assets: 20108,74
+2017-06-20 19:21:46 [main] INFO  StockRunner  line:53 - Broker 1 has 46 shares of Amazon, (Broker 1)16642,00 of money, total assets: 20129,22
+2017-06-20 19:21:46 [main] INFO  StockRunner  line:53 - Broker 4 has 63 shares of Apple, (Broker 4)58 shares of Amazon, (Broker 4)8196,43 of money, total assets: 20134,31
+2017-06-20 19:36:25 [main] ERROR by.kooks.stockExchange.parser.InputDataParser  line:29 - Wrong data quantity in the file.
+2017-06-20 19:36:25 [main] ERROR by.kooks.stockExchange.parser.InputDataParser  line:29 - Wrong data quantity in the file.
+2017-06-20 19:36:25 [main] INFO  StockRunner  line:52 - Brokers after trading in assets' ascending order: 
+2017-06-20 19:36:25 [main] INFO  StockRunner  line:53 - Broker 4 has 24 shares of Rusal, (Broker 4)17264,00 of money, total assets: 20005,05
+2017-06-20 19:36:25 [main] INFO  StockRunner  line:53 - Broker 1 has 4 shares of Apple, (Broker 1)19524,00 of money, total assets: 20007,26
+2017-06-20 19:36:25 [main] INFO  StockRunner  line:53 - Broker 10 has 1 shares of Amazon, (Broker 10)41 shares of Facebook, (Broker 10)13820,37 of money, total assets: 20011,57
+2017-06-20 19:36:25 [main] INFO  StockRunner  line:53 - Broker 9 has 10 shares of Apple, (Broker 9)29 shares of Gazprom, (Broker 9)7 shares of volkswagen, (Broker 9)14180,02 of money, total assets: 20043,62
+2017-06-20 19:36:25 [main] INFO  StockRunner  line:53 - Broker 8 has 36 shares of Apple, (Broker 8)19 shares of Amazon, (Broker 8)28 shares of Facebook, (Broker 8)10103,25 of money, total assets: 20062,09
+2017-06-20 19:36:25 [main] INFO  StockRunner  line:53 - Broker 6 has 52 shares of Apple, (Broker 6)46 shares of Facebook, (Broker 6)6956,19 of money, total assets: 20100,19
+2017-06-20 19:36:25 [main] INFO  StockRunner  line:53 - Broker 5 has 31 shares of Apple, (Broker 5)11 shares of Amazon, (Broker 5)77 shares of Facebook, (Broker 5)4121,00 of money, total assets: 20181,56
+2017-06-20 19:36:25 [main] INFO  StockRunner  line:53 - Broker 2 has 65 shares of Gazprom, (Broker 2)97 shares of Amazon, (Broker 2)7814,11 of money, total assets: 20213,42
+2017-06-20 19:36:25 [main] INFO  StockRunner  line:53 - Broker 7 has 84 shares of Apple, (Broker 7)50 shares of Amazon, (Broker 7)6321,77 of money, total assets: 20240,94
+2017-06-20 19:36:25 [main] INFO  StockRunner  line:53 - Broker 3 has 128 shares of Facebook, (Broker 3)1159,14 of money, total assets: 20252,32
+2017-06-20 19:42:20 [main] ERROR by.kooks.stockExchange.parser.InputDataParser  line:29 - Wrong data quantity in the file.
+2017-06-20 19:42:20 [main] ERROR by.kooks.stockExchange.parser.InputDataParser  line:29 - Wrong data quantity in the file.
+2017-06-20 19:42:20 [main] INFO  StockRunner  line:52 - Brokers after trading in assets' ascending order: 
+2017-06-20 19:42:20 [main] INFO  StockRunner  line:53 - Broker 4 has 4 shares of Rusal, (Broker 4)44 shares of volkswagen, (Broker 4)34537,98 of money, total assets: 50006,04
+2017-06-20 19:42:20 [main] INFO  StockRunner  line:53 - Broker 3 has 6 shares of Facebook, (Broker 3)49118,76 of money, total assets: 50008,09
+2017-06-20 19:42:20 [main] INFO  StockRunner  line:53 - Broker 9 has 18 shares of Gazprom, (Broker 9)48600,92 of money, total assets: 50008,47
+2017-06-20 19:42:20 [main] INFO  StockRunner  line:53 - Broker 2 has 35 shares of Amazon, (Broker 2)47400,04 of money, total assets: 50022,94
+2017-06-20 19:42:20 [main] INFO  StockRunner  line:53 - Broker 5 has 37 shares of Gazprom, (Broker 5)47154,21 of money, total assets: 50047,50
+2017-06-20 19:42:20 [main] INFO  StockRunner  line:53 - Broker 10 has 51 shares of Apple, (Broker 10)37 shares of Gazprom, (Broker 10)41043,13 of money, total assets: 50090,78
+2017-06-20 19:42:20 [main] INFO  StockRunner  line:53 - Broker 6 has 13 shares of Amazon, (Broker 6)85 shares of Facebook, (Broker 6)36537,40 of money, total assets: 50110,47
+2017-06-20 19:42:20 [main] INFO  StockRunner  line:53 - Broker 1 has 5 shares of Rusal, (Broker 1)53 shares of Amazon, (Broker 1)45573,85 of money, total assets: 50116,06
+2017-06-20 19:42:20 [main] INFO  StockRunner  line:53 - Broker 7 has 41 shares of Amazon, (Broker 7)16 shares of volkswagen, (Broker 7)89 shares of Facebook, (Broker 7)28436,45 of money, total assets: 50159,55
+2017-06-20 19:42:20 [main] INFO  StockRunner  line:53 - Broker 8 has 149 shares of Apple, (Broker 8)32233,98 of money, total assets: 50214,37

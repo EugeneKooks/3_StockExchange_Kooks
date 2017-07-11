@@ -1,0 +1,11 @@
+2017-07-11 15:25:44 [main] INFO  StockRunner  line:52 - BROKERS AFTER THE TRADE IN ORDER OF INCREASING THE AMOUNT OF ASSETS: 
+2017-07-11 15:25:44 [main] INFO  StockRunner  line:54 - Broker 9 has 17 shares of Facebook, 47503,04$ of money, total assets: 50023,76$
+2017-07-11 15:25:44 [main] INFO  StockRunner  line:54 - Broker 1 has 21 shares of Facebook, 46915,20$ of money, total assets: 50029,04$
+2017-07-11 15:25:44 [main] INFO  StockRunner  line:54 - Broker 7 has 25 shares of Gazprom, 37 shares of Volkswagen, 35458,00$ of money, total assets: 50039,21$
+2017-07-11 15:25:44 [main] INFO  StockRunner  line:54 - Broker 4 has 50 shares of Apple, 44028,99$ of money, total assets: 50062,58$
+2017-07-11 15:25:44 [main] INFO  StockRunner  line:54 - Broker 5 has 41 shares of Rusal, 3 shares of Amazon, 55 shares of Facebook, 36996,13$ of money, total assets: 50072,24$
+2017-07-11 15:25:44 [main] INFO  StockRunner  line:54 - Broker 6 has 50 shares of Apple, 25 shares of Gazprom, 61 shares of Facebook, 33034,28$ of money, total assets: 50073,03$
+2017-07-11 15:25:45 [main] INFO  StockRunner  line:54 - Broker 8 has 50 shares of Apple, 59 shares of Gazprom, 39426,83$ of money, total assets: 50086,48$
+2017-07-11 15:25:45 [main] INFO  StockRunner  line:54 - Broker 2 has 21 shares of Rusal, 29 shares of Facebook, 43400,75$ of money, total assets: 50106,32$
+2017-07-11 15:25:45 [main] INFO  StockRunner  line:54 - Broker 3 has 50 shares of Apple, 5 shares of Facebook, 43381,06$ of money, total assets: 50156,04$
+2017-07-11 15:25:45 [main] INFO  StockRunner  line:54 - Broker 10 has 128 shares of Amazon, 40597,77$ of money, total assets: 50170,38$

@@ -1,0 +1,13 @@
+2017-06-27 13:52:15 [main] ERROR by.kooks.stockExchange.parser.InputDataParser  line:29 - Wrong data quantity in the file.
+2017-06-27 13:52:15 [main] ERROR by.kooks.stockExchange.parser.InputDataParser  line:29 - Wrong data quantity in the file.
+2017-06-27 13:52:16 [main] INFO  StockRunner  line:52 - Brokers after trading in assets' ascending order: 
+2017-06-27 13:52:16 [main] INFO  StockRunner  line:53 - Broker 8 has 29 shares of Rusal, (Broker 8)46693,02 of money, total assets: 50006,90
+2017-06-27 13:52:16 [main] INFO  StockRunner  line:53 - Broker 5 has 28 shares of Amazon, (Broker 5)47953,66 of money, total assets: 50040,35
+2017-06-27 13:52:16 [main] INFO  StockRunner  line:53 - Broker 6 has 40 shares of Amazon, (Broker 6)33 shares of Facebook, (Broker 6)42153,89 of money, total assets: 50062,76
+2017-06-27 13:52:16 [main] INFO  StockRunner  line:53 - Broker 10 has 61 shares of Gazprom, (Broker 10)97 shares of volkswagen, (Broker 10)12177,68 of money, total assets: 50075,42
+2017-06-27 13:52:16 [main] INFO  StockRunner  line:53 - Broker 2 has 2 shares of Rusal, (Broker 2)87 shares of Apple, (Broker 2)40 shares of Amazon, (Broker 2)36382,22 of money, total assets: 50081,01
+2017-06-27 13:52:16 [main] INFO  StockRunner  line:53 - Broker 9 has 45 shares of Facebook, (Broker 9)43392,23 of money, total assets: 50112,08
+2017-06-27 13:52:16 [main] INFO  StockRunner  line:53 - Broker 1 has 100 shares of Apple, (Broker 1)4 shares of Amazon, (Broker 1)93 shares of Facebook, (Broker 1)23897,34 of money, total assets: 50139,75
+2017-06-27 13:52:16 [main] INFO  StockRunner  line:53 - Broker 3 has 61 shares of Gazprom, (Broker 3)68 shares of Facebook, (Broker 3)35193,67 of money, total assets: 50141,27
+2017-06-27 13:52:16 [main] INFO  StockRunner  line:53 - Broker 7 has 93 shares of Facebook, (Broker 7)36270,16 of money, total assets: 50157,85
+2017-06-27 13:52:16 [main] INFO  StockRunner  line:53 - Broker 4 has 12 shares of Facebook, (Broker 4)48490,06 of money, total assets: 50282,02

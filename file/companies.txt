@@ -1,0 +1,6 @@
+Amazon 73
+Apple 119
+Facebook 147
+Rusal 114
+Gazprom 77
+Volkswagen 341
